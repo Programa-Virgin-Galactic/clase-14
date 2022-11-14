@@ -24,53 +24,6 @@ El cohete de Virgin Galactic, es el "VSS Unity". Es el segundo avión suborbital
 
 *IMAGEN COHETE POR FUERA* / *IMAGEN COHETE POR DENTRO*
 
--Tripulación: 2
-
--Capacidad: 6 pasajeros
-
--Longitud; 18,3 metros.
-
--Envergadura: 8,3 metros.
-
--Altura: 5,5 metros.
-
-
-
--Peso bruto: 9740 kilos.
-
--Velocidad máxima: 4000 km/h.
-
--Techo de vuelo: 110000 metros.
-
-
-La cabina:
-
--Largo: 3,7 metros.
-
--Diámetro: 2,3 metros.
-
-
-Interior:
-
--Ventanas: 43
-
--Diámetro ventanas: 33 centímetros. *Pasajeros puedan apreciar el espacio*
-
--Asientos: aluminio y fibra de carbono.
-
--Iluminación: automatizada armonícamente con cada fase del vuelo.
-
--Pantallas en asientos: muestran datos del vuelo en vivo.
-
--Arquitectura de cabina: facilta movimiento en condiciones de ingravide.
-
--Cámaras: 16, proporcionan videos e imágenes.
-
--Ventanas cabina: 12, poder mirar a la Tierra.
-
--Espejo que refleja experiencia de loa pasajeros.
-
-
 ___
 # Gráfico años y altitud
 
