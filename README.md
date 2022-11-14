@@ -17,7 +17,7 @@ Misión-Visión: Virgin Galactic tiene como objetivo convertirse en la primera o
 
 *(MÁS INFO AÚN)*
 ___
-![Tripulación-01](https://user-images.githubusercontent.com/110860102/201678297-30aec4ce-a83c-4fce-9318-44a95dff4073.svg)
+![Tripulación-01](https://user-images.githubusercontent.com/110860102/201685975-70f50da2-a1ed-4fe6-9ad1-0ff420b5522a.svg)
 
 
 El cohete de Virgin Galactic, es el "VSS Unity". Es el segundo avión suborbital tipo SpaceshopTwo de la empresa, aunque el primero construido por The Spaceship Company, el brazo de fabricación de la compañia de Branson.
