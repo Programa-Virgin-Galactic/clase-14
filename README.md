@@ -28,6 +28,8 @@ El cohete de Virgin Galactic, es el "VSS Unity". Es el segundo avión suborbital
 
 -Altura: 5,5 metros.
 
+
+
 -Peso bruto: 9740 kilos.
 
 -Velocidad máxima: 4000 km/h.
