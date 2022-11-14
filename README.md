@@ -1,5 +1,5 @@
 # clase-14
-# Programa Virgin Galactic: Richard Branson y el turismo espacial.
+# Programa Virgin Galactic: Richard Branson y el turismo espacial
 Empresa dentro de Virgin Group que planea proporcionar vuelos espaciales suborbitales tripulados, lanzamientos suborbitales para misiones científicas y lanzamientos orbitales para satélites pequeños. En el futuro Virgin Galactic planea ofrecer también vuelos orbitales.
 Aunque Virgin Group es británica, Virgin Galactic tiene su sede en Mojave, California.
 ___
