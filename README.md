@@ -3,7 +3,9 @@
 Empresa dentro de Virgin Group que planea proporcionar vuelos espaciales suborbitales tripulados, lanzamientos suborbitales para misiones científicas y lanzamientos orbitales para satélites pequeños. En el futuro Virgin Galactic planea ofrecer también vuelos orbitales.
 Aunque Virgin Group es británica, Virgin Galactic tiene su sede en Mojave, California.
 ___
-![image](https://user-images.githubusercontent.com/110835294/201537023-fb4e3e02-e544-418b-9256-3c7a4d339a27.png)
+
+![1200px-Virgin-logo svg](https://user-images.githubusercontent.com/110860102/201678868-e405cfe3-b21b-4d5d-8b4f-f809761f89fa.png)
+
 Virgin Group fue fundada en el año 1970, por el magnate británico Richard Branson. Está vinculado a varios sectores de la sociedad de consumo, entre ellos viajes, ocio, teléfonos móviles, entretenimiento minorista y finanzas personales. Partió relacionada al mundo de la música con Virgin Records en 1972, con este particular nombre porque los discos que Richard vendía eran comprados en diferentes outlets y su estado era casi nuevos (virgen). Algunos de sus hitos más importantes y reconocidos son: 
 
 ![GráficoEmpresas_Mesa de trabajo 1](https://user-images.githubusercontent.com/110860102/201678484-b9095fe2-22d6-4bf0-82f4-fb2b45d32cc0.svg)
