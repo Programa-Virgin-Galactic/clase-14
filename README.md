@@ -14,6 +14,8 @@ Misión-Visión: Virgin Galactic tiene como objetivo convertirse en la primera o
 ___
 ![image](https://user-images.githubusercontent.com/110835294/201538553-a4e5443c-0142-4129-9685-4439196b5611.png)
 
+El cohete de Virgin Galactic, es el "VSS Unity" 
+
 *IMAGEN COHETE POR FUERA* / *IMAGEN COHETE POR DENTRO*
 
 Descripción de estos.
