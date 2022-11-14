@@ -12,17 +12,17 @@ Virgin Group fue fundada en el año 1970, por el magnate británico Richard Bran
 
 ___
 Misión-Visión: Virgin Galactic tiene como objetivo convertirse en la primera organización privada en llevar a los clientes de pago al espacio y también es una de las pocas empresas que ya ha vendido billetes de vuelos espaciales comerciales. *(FALTA MÁS INFO)*
-![virgin](https://user-images.githubusercontent.com/110860102/201678205-2da3606b-5030-4bee-b3ab-f0c0087031fb.svg)
-
+![Virgin-Galactic-Logo](https://user-images.githubusercontent.com/110860102/201692869-2f8ca83a-4d30-42fc-941f-5939cb5503b3.jpg)
 
 *(MÁS INFO AÚN)*
 ___
-![Tripulación-01](https://user-images.githubusercontent.com/110860102/201685975-70f50da2-a1ed-4fe6-9ad1-0ff420b5522a.svg)
+![Tripulación-01](https://user-images.githubusercontent.com/110860102/201693509-c7c545f2-bd23-48fc-8f06-9e4d69cb6725.svg)
 
 
 El cohete de Virgin Galactic, es el "VSS Unity". Es el segundo avión suborbital tipo SpaceshopTwo de la empresa, aunque el primero construido por The Spaceship Company, el brazo de fabricación de la compañia de Branson.
 
-*IMAGEN COHETE POR FUERA* / *IMAGEN COHETE POR DENTRO*
+![VSS Unity_Mesa de trabajo 1](https://user-images.githubusercontent.com/110860102/201693098-019d9fe9-ba07-46f0-8b09-239b38e4e0fe.svg)
+
 
 ___
 # Gráfico años y altitud
