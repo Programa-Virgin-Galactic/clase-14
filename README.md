@@ -33,7 +33,7 @@ Aunque la compañía está bien posicionada para ofrecer viajes espaciales en un
 
 ----
 # Competencia y 3 cohetes + info
-Otras compañías que se dedican al turismo espacial son Space X y Blue Origin
+Otras compañías que se dedican al turismo espacial son Blue Origin y Space X 
 ![BlueOrigin](https://user-images.githubusercontent.com/110860102/201677861-8e2b4c9c-27a7-4b37-8cee-d6617e212be3.svg)
 ![SpaceX](https://user-images.githubusercontent.com/110860102/201677892-a4fdcfad-61b8-46a6-beba-2201c34414a6.svg)
 ![virgin](https://user-images.githubusercontent.com/110860102/201679635-4b9ae28a-df2b-4893-a9f7-295735aa8dcd.svg)
