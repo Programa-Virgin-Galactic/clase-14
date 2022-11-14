@@ -69,3 +69,7 @@ ___
 Gráfico costos de viaje + iconos
 ___
 Competencia y 3 cohetes + info
+
+![BlueOrigin](https://user-images.githubusercontent.com/110860102/201677861-8e2b4c9c-27a7-4b37-8cee-d6617e212be3.svg)
+![SpaceX](https://user-images.githubusercontent.com/110860102/201677892-a4fdcfad-61b8-46a6-beba-2201c34414a6.svg)
+
