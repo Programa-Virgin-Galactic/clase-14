@@ -5,14 +5,18 @@ Aunque Virgin Group es británica, Virgin Galactic tiene su sede en Mojave, Cali
 ___
 ![image](https://user-images.githubusercontent.com/110835294/201537023-fb4e3e02-e544-418b-9256-3c7a4d339a27.png)
 Virgin Group fue fundada en el año 1970, por el magnate británico Richard Branson. Está vinculado a varios sectores de la sociedad de consumo, entre ellos viajes, ocio, teléfonos móviles, entretenimiento minorista y finanzas personales. Partió relacionada al mundo de la música con Virgin Records en 1972, con este particular nombre porque los discos que Richard vendía eran comprados en diferentes outlets y su estado era casi nuevos (virgen). Algunos de sus hitos más importantes y reconocidos son: 
-![image](https://user-images.githubusercontent.com/110835294/201537993-7ced43a1-3f58-4b13-b0d1-af13f6c65f82.png)
+
+![GráficoEmpresas_Mesa de trabajo 1](https://user-images.githubusercontent.com/110860102/201678484-b9095fe2-22d6-4bf0-82f4-fb2b45d32cc0.svg)
+
 ___
 Misión-Visión: Virgin Galactic tiene como objetivo convertirse en la primera organización privada en llevar a los clientes de pago al espacio y también es una de las pocas empresas que ya ha vendido billetes de vuelos espaciales comerciales. *(FALTA MÁS INFO)*
-![image](https://user-images.githubusercontent.com/110835294/201538488-e02ece4a-844a-49a9-98d6-8e9482d32b49.png)
+![virgin](https://user-images.githubusercontent.com/110860102/201678205-2da3606b-5030-4bee-b3ab-f0c0087031fb.svg)
+
 
 *(MÁS INFO AÚN)*
 ___
-![image](https://user-images.githubusercontent.com/110835294/201538553-a4e5443c-0142-4129-9685-4439196b5611.png)
+![Tripulación-01](https://user-images.githubusercontent.com/110860102/201678297-30aec4ce-a83c-4fce-9318-44a95dff4073.svg)
+
 
 El cohete de Virgin Galactic, es el "VSS Unity". Es el segundo avión suborbital tipo SpaceshopTwo de la empresa, aunque el primero construido por The Spaceship Company, el brazo de fabricación de la compañia de Branson.
 
